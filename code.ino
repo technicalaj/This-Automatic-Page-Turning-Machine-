@@ -1,5 +1,6 @@
 
 // tutorial video https://www.youtube.com/watch?v=53ykX3utPtw&t=28s
+//full project link :https://projecthub.arduino.cc/aakash11/automatic-page-turning-machine-d9a9c0
 
 #include  <Servo.h>
 #define echoPin 14
